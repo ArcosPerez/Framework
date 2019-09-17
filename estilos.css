@@ -1,0 +1,42 @@
+.titulo{
+    margin:0px;
+    text-align: center;
+ background-color: #199FCA;
+  padding: 30px 40px;
+  color: white;
+
+}
+.meu{
+     left: 10%;
+     top:21%;
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+.registro td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.registro{
+    position:absolute;
+    left: 65%;
+    top:30%;
+}
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: #88A4C9;
+  color: white;
+}
